@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Fahd Seddik</h1>
-<h3 align="center">I'm passionate about game development, encryption, and machine learning! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University.🏫</h3>
+<h3 align="center">I'm passionate about game development, software engineering, and machine learning! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University.🏫</h3>
 
 
 - 🌱 I’m currently learning **problem solving techniques, Python, Unity Game Engine, and ML**
