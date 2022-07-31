@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **mobile development**
 
-- 📫 How to reach me **fahdseddik@gmail.com**
+- 📫 How to reach me **fahdseddik@gmail.com** or **fahd.seddik02@eng-st.cu.edu.eg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
