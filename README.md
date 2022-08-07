@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about game development, software engineering, and machine learning! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University.🏫</h3>
 
 
-- 🌱 I’m currently learning **problem solving techniques, Python, Unity Game Engine, and ML**
+- 🌱 I’m currently learning **problem solving techniques, Unity Game Engine, and ML**
 
 - 👯 I’m looking to collaborate on **more machine learning projects**
 
