@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **fahdseddik@gmail.com** or **fahd.seddik02@eng-st.cu.edu.eg**
 
+- 🙋‍♂️ For more about me, check out my [Digital CV](fahdseddik.github.io/Digital-CV)!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fahd-seddik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd seddik" height="30" width="40" /></a>
