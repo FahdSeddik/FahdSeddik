@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fahdseddik@gmail.com** or **fahd.seddik02@eng-st.cu.edu.eg**
 
-- 🙋‍♂️ For more about me, check out my [Personal Website / Digital CV](https://fahdseddik.github.io)!
+- 🙋‍♂️ For more about me, check out my [Personal Website](https://fahdseddik.github.io)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
