@@ -23,7 +23,7 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/62207434/199110276-dbd52d72-6b2a-49f5-8d5a-3528fbccc9da.gif)
 
-<details markdown="1"><summary>ABOUTME.txt (Click to Show)</summary>  
+<details markdown="3"><summary style="font-size:50"><strong><h2><b><u>Open ABOUTME.txt (Click to Show)</u></b></h2></strong></summary>  
 
 ## Summary
 <h4>Hey <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 20px>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
