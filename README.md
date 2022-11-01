@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="700" height="126">
+  <a href=#><img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="700" height="126"></a>
 </div>
 
 <hr>
@@ -22,14 +22,14 @@ fahd@GitHub:~$ g++ about.cpp -o about.exe
 fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 ```
 <div>
-<img src="Build.gif" alt="Build" width="250">
+  <a href=#><img src="Build.gif" alt="Build" width="250"></a>
 
 </div>
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
   
-<h4>Hey <img src = "wave.gif" width = 20px>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
+  <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
 
 - 🔭 I’m currently learning **problem solving techniques, Unity Game Engine, and ML**
 
@@ -55,7 +55,7 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
   </tr>
   <tr>
     <td><h4 align="right">View Count</h4>
-<img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></td></tr>
+<a href=#><img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></a></td></tr>
   <table>
 
     
