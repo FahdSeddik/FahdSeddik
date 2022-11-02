@@ -1,5 +1,5 @@
 <div align="center">
-  <a href=#><img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="700" height="126"></a>
+  <a href=#><img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="75%" ></a>
 </div>
 
 <hr>
@@ -26,7 +26,7 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 <tr><td>
   <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
 
-<a href="#"><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="450">
+<a href="#"><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%">
 
 > 🔭 I’m currently learning **problem solving techniques, Unity Game Engine, and ML**
 
@@ -36,7 +36,7 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 
 > 📫 How to reach me fahdseddik@gmail.com or fahd.seddik02@eng-st.cu.edu.eg
 
-<p align="center"><a href="https://fahdseddik.github.io/"><img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="40"></a><a href="https://fahdseddik.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-25316d?style=for-the-badge&logo=globe" alt="Personal Website" height="40" ></a></p>
+<p align="center"><a href="https://fahdseddik.github.io/"><img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="4%"></a><a href="https://fahdseddik.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-25316d?style=for-the-badge&logo=globe" alt="Personal Website" width="20%" ></a></p>
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
 <code><a href="https://linkedin.com/in/fahd-seddik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a></code>
