@@ -1,7 +1,7 @@
 <div align="center">
-  <picture>
+  <a href=#>
   <img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="75%" >
-    </picture>
+    </a>
 </div>
 
 <hr>
@@ -26,9 +26,9 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
-  <h4>Hey <picture><img src = "wave.gif" width = 20px></picture>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
+  <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I'm currently doing my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
 
-<picture><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></picture>
+<a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
 > 🔭 I’m currently learning **problem solving techniques, Unity Game Engine, and ML**
 
@@ -74,9 +74,9 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
   </tr>
   <tr>
     <td>
-      <picture><img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" align="left" width="100"></picture>
+      <a href=#><img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" align="left" width="100"></a>
       <h4 align="right">View Count</h4>
-      <picture><img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></picture>
+     <a href=#><img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></a>
     </td>
   </tr>
   <table>     
