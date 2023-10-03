@@ -74,7 +74,7 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
   </tr>
   <tr>
     <td>
-      <a href=#><img src="https://thumbs.gfycat.com/UnripeAdoredGrayreefshark-max-1mb.gif" align="left" width="100"></a>
+      <a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
       <h4 align="right">View Count</h4>
      <a href=#><img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></a>
     </td>
