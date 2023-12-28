@@ -1,3 +1,19 @@
+<!---
+      Hi This is made by me, Fahd Seddik https://github.com/FahdSeddik I put a lot of effort and creativity into making this profile, so I would appreciate it if you do not copy it without giving me credit. You can use it as a reference or inspiration, but please make your own original profile that reflects your personality and achievements. Thank you for understanding and respecting my work.😊
+
+Socials:
+GitHub-> https://github.com/FahdSeddik
+LinkedIn-> https://www.linkedin.com/in/fahd-seddik
+Website-> https://fahdseddik.github.io/
+
+Here is a cool cube :)
+         +--------+
+       /        / |
+      +--------+  |
+      |        |  +
+      |        | /
+      +--------+
+-->
 <div align="center">
   <a href=#>
   <img src="Fahd-Seddik.gif" alt="Fahd Seddik" width="75%" >
