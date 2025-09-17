@@ -42,15 +42,16 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
-  <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! I got my bachelor degree🎓 in Computer Engineering at Faculty of Engineering, Cairo University🏫.</h4>
+  <h4>Hey <a href=#><img src = "wave.gif" width = 20px></a>, I'm Fahd. I'm passionate about  machine learning🤖, software engineering👨‍💻, and game development🎮! My work often blends deep learning, optimization, and large-scale system design, but I also love diving into new domains and learning by creating.🌎</h4>
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
 
-> 🔭 I’m currently learning **problem solving techniques, Unity Game Engine, and ML**
+> 🔭 I’m currently learning **parallel computing, problem solving techniques, and optimization**
 
-> 👥 I’m looking to collaborate on **more machine learning projects**
+> 💡 I’m especially interested in making AI more **efficient**, **reliable**, and **accessible**.
 
-> 🤔 I’m looking for help with **mobile development**
+> 🏆 Hackathons, research collaborations, and open-source projects fuel my curiosity.
+
 
 
 <p align="center"><a href="https://fahdseddik.github.io/"><img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="35"></a><a href="https://fahdseddik.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-25316d?style=for-the-badge&logo=globe" alt="Personal Website" width="200" ></a></p>
@@ -62,29 +63,6 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 <code><a href="https://codeforces.com/profile/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="40" /></a></code>
 <code><a href="https://www.leetcode.com/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="40" /></a></code>
   </details>
-<details open><summary><h3 align="left">💻 Languages:</h3></summary>‍
-<code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
-<code><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-<code><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a></code> 
-<code><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code> 
-<code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></code>
-<code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>
-<code><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a></code>
-<code><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></code>
-<code><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a></code>
-</details>
-<details open><summary><h3 align="left">🔨 Tools / Frameworks / Others:</summary>
-<code><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
-<code><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a></code>
-<code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-<code><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></code>
-<code><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a></code>
-<code><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a></code>
-<code><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a></code>
-<code><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></code>
-<code><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></code>
-</details>
   </td>
   </tr>
   <tr>
