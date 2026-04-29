@@ -57,20 +57,9 @@ fahd@GitHub:~$ ./about.exe > ABOUTME.txt
 <p align="center"><a href="https://fahdseddik.github.io/"><img src="https://user-images.githubusercontent.com/62207434/199560487-b39b69bb-368a-4f0b-924b-31defd4fd854.gif" width="35"></a><a href="https://fahdseddik.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Personal Website-25316d?style=for-the-badge&logo=globe" alt="Personal Website" width="200" ></a></p>
 
 <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
-<code><a href="https://linkedin.com/in/fahd-seddik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a></code>
-<code><a href="https://kaggle.com/fahdseddik" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahdseddik" height="30" width="40" /></a></code>
-<code><a href="https://www.hackerrank.com/fahd_seddik02" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>
-<code><a href="https://codeforces.com/profile/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="40" /></a></code>
-<code><a href="https://www.leetcode.com/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="40" /></a></code>
+<a href="https://linkedin.com/in/fahd-seddik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a> <a href="https://kaggle.com/fahdseddik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fahdseddik" height="30" width="40" /></a> <a href="https://www.hackerrank.com/fahd_seddik02" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a> <a href="https://codeforces.com/profile/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="40" /></a> <a href="https://www.leetcode.com/midniterayz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="40" /></a>
   </details>
   </td>
-  </tr>
-  <tr>
-    <td>
-      <a href=#><img src="https://i.pinimg.com/originals/fe/84/4c/fe844cbda6fa537f1f2bfe47551f6de3.gif" align="left" width="100"></a>
-      <h4 align="right">View Count</h4>
-     <a href=#><img src="https://profile-counter.glitch.me/fahdseddik/count.svg" alt="View Count" width="200" align="right"></a>
-    </td>
   </tr>
   <table>     
 <hr>
